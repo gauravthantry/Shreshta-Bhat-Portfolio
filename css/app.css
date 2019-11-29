@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+}
+
+.container{
+    text-align: center;
+}
+.basicInfo{
+    background-color: white;
+    height: 50vh;
+}
+
+.content{
+    background-color: white;
+    height: 100vh;
+}
