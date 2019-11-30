@@ -8,15 +8,20 @@ body{
 
 .content{
     text-align: center;
-    /* height: 100vh; */
     margin-top: 5%;
 }
-.basicInfo{
+.basicInfo,.descriptions{
     background-color: white;
-    /* height: 50vh; */
 }
 
-.description{
-    background-color: white;
-    /* height: 100vh; */
+.descriptions{
+    margin-left: 2%;
+}
+
+#download{
+    background-color: #ffbf00;
+}
+
+#cvDownload{
+    color: black;
 }
