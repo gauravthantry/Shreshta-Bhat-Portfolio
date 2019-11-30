@@ -1,16 +1,22 @@
 body{
-    background-color: azure;
+    background-color: grey;
 }
 
 .container{
     text-align: center;
 }
-.basicInfo{
-    background-color: white;
-    height: 50vh;
-}
 
 .content{
+    text-align: center;
+    /* height: 100vh; */
+    margin-top: 5%;
+}
+.basicInfo{
     background-color: white;
-    height: 100vh;
+    /* height: 50vh; */
+}
+
+.description{
+    background-color: white;
+    /* height: 100vh; */
 }
