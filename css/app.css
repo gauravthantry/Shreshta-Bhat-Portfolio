@@ -6,12 +6,21 @@ body{
     text-align: center;
 }
 
+body{
+    font-family: 'Muli', sans-serif;
+}
+
 .content{
     text-align: center;
     margin-top: 5%;
 }
-.basicInfo,.descriptions{
+.section1,.section2{
     background-color: white;
+    padding: 2% 2% 2% 2%;
+}
+
+.section2{
+    height: 100vh;
 }
 
 .descriptions{
@@ -24,4 +33,14 @@ body{
 
 #cvDownload{
     color: black;
+}
+
+h2.header{
+    text-align: left;
+    align-content: left;
+    text-decoration: underline;
+}
+
+.specificContent{
+    text-align: left;
 }
